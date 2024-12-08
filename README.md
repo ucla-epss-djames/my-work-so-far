@@ -1,2 +1,2 @@
-# my-work-so-far
-A foundation for posters and publications while I still try to put my site together (lul).
+# AGU 2024
+### DI11B-3143: Elasticity Of Rock In Giant Planetary Interiors
