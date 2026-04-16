@@ -1,6 +1,6 @@
 # Posters and Papers
 
-## Planetary Evolution
+## 1. Planetary Evolution
 
 ### Thermal and Tidal Evolution of Neptune
 The contrasting internal luminosity of Uranus and Neptune present a challenge to
@@ -44,7 +44,7 @@ core will have on the moons and compare these to observations from the Cassini
 mission.
 - [AGU Poster Citation](https://ui.adsabs.harvard.edu/abs/2024AGUFMP41D.2928J/abstract)
 
-## Computational Mineralogy
+## 2. Computational Mineralogy
 
 ### MgO: Elasticity Of Rock In Giant Planetary Interiors
 The structural and elastic properties of MgO were studdied up to
@@ -71,7 +71,7 @@ instability in the terrapascal region. Finally, we compare these
 structures to the infinite pressure limit of a uniform electron gas.
 
 **Citations and other medias:**
-- [MD NPT Video of B2 at 800 GPa, 4000 K](https://ucla-epss-djames.github.io/my-work-so-far/comp_mineralogy/mgo_npt/MD_Sim_800_4000.mp4){:target="_blank"}
-- [MD NPT Video of B1 transforming to B2 at 800 GPa, 4000 K](https://ucla-epss-djames.github.io/my-work-so-far/comp_mineralogy/mgo_npt/b2b1_200_4000.mp4){:target="_blank"}
+- [MD NPT Video of B2 at 800 GPa, 4000 K](https://ucla-epss-djames.github.io/my-work-so-far/comp_mineralogy/mgo_npt/MD_Sim_800_4000.mp4)
+- [MD NPT Video of B1 transforming to B2 at 800 GPa, 4000 K](https://ucla-epss-djames.github.io/my-work-so-far/comp_mineralogy/mgo_npt/b2b1_200_4000.mp4)
 - [AGU Poster Cite (2022)](https://ui.adsabs.harvard.edu/abs/2022AGUFMDI45B0036J/abstract)
 - [AGU Poster Cite (2024)](https://ui.adsabs.harvard.edu/abs/2024AGUFMDI11B3143J/abstract)
