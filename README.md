@@ -19,11 +19,11 @@ that were either encountered or avoided in the past. We discuss prospects for
 observational tests of the growing frozen core model and possible implications
 for understanding the gas giants.
 
-**Paper and other medias:**
+**Paper and other mediums:**
 - [James and Stixrude (2024)](https://doi.org/10.1007/s11214-024-01053-6)
-- [core growth animation]()
-- [moon migration animation]()
-- [AGU Poster (2023)]()
+- [core growth animation](https://ucla-epss-djames.github.io/my-work-so-far/planetary_evolution/neptune/neptune_core_growth.mp4)
+- [moon migration animation](https://ucla-epss-djames.github.io/my-work-so-far/planetary_evolution/neptune/neptune_moon_migration.mp4)
+- [AGU Poster (2023)](https://ucla-epss-djames.github.io/my-work-so-far/planetary_evolution/neptune/poster.pdf)
 
 
 ### Thermal and Tidal Evolution of Saturn
@@ -71,7 +71,7 @@ instability in the terrapascal region. Finally, we compare these
 structures to the infinite pressure limit of a uniform electron gas.
 
 **Citations and other medias:**
-- [MD NPT Video of B2 at 800 GPa, 4000 K](https://ucla-epss-djames.github.io/my-work-so-far/poster_1/MD_Sim_800_4000.mp4){:target="_blank"}
-- [MD NPT Video of B1 transforming to B2 at 800 GPa, 4000 K](){:target="_blank"}
+- [MD NPT Video of B2 at 800 GPa, 4000 K](https://ucla-epss-djames.github.io/my-work-so-far/comp_mineralogy/mgo_npt/MD_Sim_800_4000.mp4){:target="_blank"}
+- [MD NPT Video of B1 transforming to B2 at 800 GPa, 4000 K](https://ucla-epss-djames.github.io/my-work-so-far/comp_mineralogy/mgo_npt/b2b1_200_4000.mp4){:target="_blank"}
 - [AGU Poster Cite (2022)](https://ui.adsabs.harvard.edu/abs/2022AGUFMDI45B0036J/abstract)
 - [AGU Poster Cite (2024)](https://ui.adsabs.harvard.edu/abs/2024AGUFMDI11B3143J/abstract)
